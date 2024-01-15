@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ankan Das</h1>
 <h3 align="center">Passionate developer striving to make a positive impact through technology</h3>
 
-<p align="left"> <a href="https://twitter.com/ankandas_twi" target="blank"><img src="https://img.shields.io/twitter/follow/ankandas_twi?logo=twitter&style=for-the-badge" alt="ankandas_twi" /></a> </p>
+<p align="left"> <a href="https://fb.com/ankandas.fb " target="blank"><img src="https://img.shields.io/twitter/follow/ankandas101?logo=twitter&style=for-the-badge" alt="ankandas_twi" /></a> </p>
 
 <img align="right" alt="Coading picture " width="" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
