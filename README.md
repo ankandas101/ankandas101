@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coading picture " width="" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 💬 Ask me about **C,C++,java,Python**
 
