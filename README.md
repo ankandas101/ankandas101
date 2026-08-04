@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankan Das</h1>
 
 <p align="center">
-  <b>Software Developer | QA Engineer | Automation Enthusiast</b><br/>
+  <b>Web Developer | QA Engineer | Automation Enthusiast</b><br/>
   Building reliable, scalable & high-quality software 🚀
 </p>
 
@@ -23,17 +23,17 @@
 
 <img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-- 🌱 Currently learning **Automation Testing & Test Framework Design**
+- 🌱 Currently learning **Automation Framework Design**
 - 🧪 Focused on **QA Engineering & Software Quality Assurance**
 - ⚙️ Passionate about building **bug-free, production-ready systems**
 - 💬 Ask me about:
   - Manual Testing & QA Strategy  
-  - Automation (Selenium, JUnit, PyTest)  
+  - Automation (Selenium,Playwright,Appium, JUnit )  
   - API Testing (Postman, REST Assured)  
-  - Programming (Python, Java, C++)  
-  - Git & CI/CD basics  
-- 📫 Reach me: **ankan.cse22@gmail.com**
-- ** <a href="https://ankandas.me">  ankandas.me </a> **
+  - Programming (JS, Python, Java, C,PHP)  
+  - Git & CI/CD and AWS basics  
+- 📫 Reach me: **hello@ankandas.me** or **ankandas.qa@gmail.com** 
+- 🌐 ** <a href="https://ankandas.me">  ankandas.me </a> **
 
 ---
 
