@@ -12,8 +12,8 @@
   <a href="mailto:ankan.cse22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/ankandas">
-    <img src="https://img.shields.io/github/followers/ankandas?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/ankandas101/">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" width="100"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   - API Testing (Postman, REST Assured)  
   - Programming (JS, Python, Java, C,PHP)  
   - Git & CI/CD and AWS basics  
-- 📫 Reach me: **hello@ankandas.me** or **ankandas.qa@gmail.com** 
+- 📫 Reach me: **hello@ankandas.me** or **ankan.cse22@gmail.com** 
 - 🌐 ** <a href="https://ankandas.me">  ankandas.me </a> **
 
 ---
@@ -42,7 +42,6 @@
 <p align="left">
  <a href="https://ankandas.me"> <img src="https://img.shields.io/badge/-> ankandas.me-black?style=for-the-badge&logo=google-chrome" / ></a>
 <a href="https://fb.com/ankandas.fb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
-<a href="https://twitter.com/ankandas_twi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
 <a href="https://linkedin.com/in/ankandas101"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
 <a href="https://instagram.com/ankandas.101/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 
@@ -50,7 +49,7 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -58,14 +57,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
-### 🧪 Testing & QA Tools
+### Testing & QA Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="45"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" width="45"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 </p>
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
