@@ -36,16 +36,6 @@
 - 🌐 ** <a href="https://ankandas.me">  ankandas.me </a> **
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
- <a href="https://ankandas.me"> <img src="https://img.shields.io/badge/-> ankandas.me-black?style=for-the-badge&logo=google-chrome" / ></a>
-<a href="https://fb.com/ankandas.fb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
-<a href="https://linkedin.com/in/ankandas101"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://instagram.com/ankandas.101/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-
----
 <p align="center">
   <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 </p>
