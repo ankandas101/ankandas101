@@ -46,35 +46,6 @@
 <a href="https://instagram.com/ankandas.101/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 
 ---
-
-## ⚙️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-</p>
-
-### Testing & QA Tools
-<p>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" width="45"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</p>
-
----
-
-## 💡 Quote
-
 <p align="center">
   <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 </p>
